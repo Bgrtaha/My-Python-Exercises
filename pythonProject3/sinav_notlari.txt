@@ -1,0 +1,3 @@
+Buğra Avcı:100,80,50
+tugce murat:20,30,40
+beste eligüzel:20,30,70
